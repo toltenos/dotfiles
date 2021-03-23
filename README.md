@@ -15,4 +15,5 @@ Installation:
     cd dotfiles
 
     ./install_dotfiles
-    ./setup.sh
+    ./install_base_packages
+    ./install_desktop
